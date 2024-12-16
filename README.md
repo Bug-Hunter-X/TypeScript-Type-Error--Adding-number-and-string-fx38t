@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript and how to fix it. The `bug.ts` file shows the error, and the `bugSolution.ts` file demonstrates a way to fix the type error.
